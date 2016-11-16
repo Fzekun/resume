@@ -1,0 +1,13 @@
+body,p,ul,li{
+  margin:0;
+  padding:0;
+}
+li{
+    list-style: none;
+}
+body{
+  font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"宋体";
+}
+a{
+  text-decoration: none;
+}
